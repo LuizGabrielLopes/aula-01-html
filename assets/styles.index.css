@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+.Dancing-Script {
+    font-family: "Dancing Script", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Dancing Script", sans-serif;
+    color: rgb(8, 248, 240);
+    padding: 10px;
+}
+
+header {
+    background-color: rgb(10, 41, 151);
+    border-radius: 6px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
